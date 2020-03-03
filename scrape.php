@@ -53,3 +53,4 @@ function get_html($main_cookie='') {
 $result = get_html();
 echo $result;
 
+?>
